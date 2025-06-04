@@ -1,0 +1,1 @@
+This directory will store screenshots taken by the Activity Tracker application.

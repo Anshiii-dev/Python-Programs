@@ -1,0 +1,22 @@
+End-User License Agreement (EULA) for Activity Tracker
+
+This End-User License Agreement ("EULA") is a legal agreement between you (either an individual or a single entity) and Activity Tracker's developers.
+
+By installing, copying, or otherwise using Activity Tracker, you agree to be bound by the terms of this EULA. If you do not agree to the terms of this EULA, do not install or use Activity Tracker.
+
+1. GRANT OF LICENSE
+   Activity Tracker is provided as-is, free of charge for personal or commercial use.
+
+2. DESCRIPTION OF OTHER RIGHTS AND LIMITATIONS
+   You may not reverse engineer, decompile, or disassemble Activity Tracker, except and only to the extent that such activity is expressly permitted by applicable law.
+
+3. COPYRIGHT
+   All title and copyrights in and to Activity Tracker (including but not limited to any images, text, and code incorporated into Activity Tracker) are owned by the developers.
+
+4. NO WARRANTIES
+   The developers expressly disclaim any warranty for Activity Tracker. Activity Tracker is provided 'As Is' without any express or implied warranty of any kind, including but not limited to any warranties of merchantability, non-infringement, or fitness of a particular purpose.
+
+5. LIMITATION OF LIABILITY
+   In no event shall the developers be liable for any damages (including, without limitation, lost profits, business interruption, or lost information) rising out of use of or inability to use Activity Tracker, even if the developers have been advised of the possibility of such damages.
+
+By installing Activity Tracker, you acknowledge that you have read this EULA, understand it, and agree to be bound by its terms.
