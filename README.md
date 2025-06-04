@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Computer Activity Tracker
 
 A simple application that takes periodic screenshots of your computer screen for activity tracking purposes.
@@ -47,3 +48,7 @@ If you want to create a standalone executable:
 ## Note
 
 This application runs in the background after you start tracking. It will continue to take screenshots until you stop tracking or close the application.
+=======
+# Python-Programs
+This is a repository of my all those python programs that i have created in my learning period.
+>>>>>>> f3d1913ab006802b9af5b972f2fb2bc365019764
